@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nishad-Patil
-- 👀 I am a frontent devloper.
-- 🌱 I’m currently persuing full stack.
+- 👀 I am aspiring Full stack development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
